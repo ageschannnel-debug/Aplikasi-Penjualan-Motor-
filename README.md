@@ -28,7 +28,7 @@ menggunakan konsep Object Oriented Programming (OOP).
 
 ## 🖥 Tampilan Aplikasi
 
-![Screenshot Aplikasi](img/gambar aplikasi.png)
+![Screenshot Aplikasi](img/gambaraplikasi.png)
 
 ---
 
