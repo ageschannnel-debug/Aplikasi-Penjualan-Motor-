@@ -28,7 +28,7 @@ menggunakan konsep Object Oriented Programming (OOP).
 
 ## 🖥 Tampilan Aplikasi
 
-![Screenshot Aplikasi](img/penjualanmotor.png)
+![Screenshot Aplikasi](img/gambar aplikasi.png)
 
 ---
 
